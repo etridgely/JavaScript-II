@@ -11,8 +11,8 @@ With some basic JavaScript principles in hand, we can now expand our skills out 
 * [X] Add your project manager as collaborator on Github.
 * [X] Clone your OWN version of the repository (Not Lambda's by mistake!).
 * [X] Create a new branch: git checkout -b `<firstName-lastName>`.
-* [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-* [ ] Push commits: git push origin `<firstName-lastName>`.
+* [X] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+* [X] Push commits: git push origin `<firstName-lastName>`.
 
 **Follow these steps for completing your project.**
 
@@ -24,7 +24,7 @@ With some basic JavaScript principles in hand, we can now expand our skills out 
 
 This task focuses on getting practice with higher order functions and callback functions by giving you an array of values and instructions on what to do with that array.
 
-* [ ] Review the contents of the [callbacks.js](assignments/callbacks.js) file.  Notice you are given an array at the top of the page.  Use that array to aid you with your functions.
+* [X] Review the contents of the [callbacks.js](assignments/callbacks.js) file.  Notice you are given an array at the top of the page.  Use that array to aid you with your functions.
 
 * [ ] Complete the problems provided to you but skip over stretch problems until you are complete with every other JS file first.
 
@@ -44,7 +44,7 @@ We have learned that closures allow us to access values in scope that have alrea
 
 **Hint: Utilize debugger statements in your code in combination with your developer tools to easily identify closure values.**
 
-* [ ] Review the contents of the [closure.js](assignments/closure.js) file.  
+* [X] Review the contents of the [closure.js](assignments/closure.js) file.  
 * [ ] Complete the problems provided to you but skip over stretch problems until you are complete with every other JS file first.
 
 ## Stretch Goals
