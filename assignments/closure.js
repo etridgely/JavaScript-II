@@ -1,6 +1,12 @@
 // ==== Challenge 1: Write your own closure ====
 // Write a simple closure of your own creation.  Keep it simple!
+var school = 'Lambda School'
 
+function learnCode() {
+  console.log('I am learning to code through ' + school + '.')
+};
+
+learnCode();
 
 /* STRETCH PROBLEMS, Do not attempt until you have completed all previous tasks for today's project files */
 
